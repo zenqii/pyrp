@@ -1,2 +1,10 @@
-# pyrp
-a custom rich presence for your discord written in python
+# PY-RP - 1.3.2
+A custom rich presence for your discord written in python
+
+## Usage
+
+Download the file here: https://github.com/zenqiproject/pyrp/releases
+
+Also make sure you've created a applications at: https://discord.com/developers/application
+
+If you still don't know how to use, read the FAQ file [here](https://github.com/zenqiproject/pyrp/releases)
