@@ -1,4 +1,4 @@
-# PY-RP - 1.3.2
+# PY-RP - 2.1
 A custom rich presence for your discord written in python
 
 ## Usage
