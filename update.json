@@ -1,0 +1,9 @@
+{
+  "version":
+  {
+    systemVersion: "2.1",
+    systemInfo: "Changes everything, make it more awesome before. And change ini file to json",
+    systemUpdate: false
+  
+  }
+}
