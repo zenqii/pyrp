@@ -1,6 +1,6 @@
 # PY-RP - 2.1
 > I stopped developing this project. you can use it tho.</br> 
-> Reason: I deleted source file from my computer that's why
+> Reason: I accidentally deleted source file from my computer that's why
 
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 ---
